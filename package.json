@@ -1,0 +1,10 @@
+{
+    "name": "iclasser-react-native",
+    "private": true,
+    "workspaces": [
+      "packages/*"
+    ],
+    "scripts": {
+      "build": "npm run build --workspaces"
+    }
+  }

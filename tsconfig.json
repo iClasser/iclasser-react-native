@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@iclasser-react-native/*": ["packages/*/package/dist-preview/src"]
+      }
+    }
+  }
